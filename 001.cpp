@@ -9,6 +9,6 @@ int main()
 
 {
     PrintName("Anas"); 
-
-    return 0;
+    printName("Abdallah");
+       return 0;
 }
